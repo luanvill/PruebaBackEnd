@@ -1,0 +1,9 @@
+{
+    "type": "oracle",
+    "host": "localhost",
+    "username": "system",
+    "password": "123",
+    "port": 1521,
+    "sid": "xe",
+    "entities": ["dist/entities/**/*.js"]
+}
